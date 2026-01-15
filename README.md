@@ -50,12 +50,13 @@ const yousra = {
     name: "Redjah Yousra Sarah",
     title: "Visual Computing Pioneer",
     education: "USTHB - Master 1 Computer Science",
-    location: "Algeria 🇩🇿",
+    location: "Algeria 🇩🇿 (& waSStyle's heart)",
+    husband: "waSStyle",
     
     specialization: {
         primary: "Visual Computing & 3D Graphics",
         secondary: "AI/ML & Deep Learning",
-        passion: "Bridging AI with Visual Storytelling"
+        passion: "Bridging AI with Visual Storytelling and conquering my good boy's heart"
     },
     
     currentFocus: [
@@ -65,7 +66,7 @@ const yousra = {
         "🎮 Interactive 3D Experiences"
     ],
     
-    philosophy: "Every pixel tells a story. Every algorithm writes destiny.",
+    philosophy: "Every pixel tells a story. Every algorithm writes destiny. Every path leads me to waSStyle's heart",
     
     lifeGoal: "Transform imagination into reality through code ✨"
 };
@@ -274,7 +275,7 @@ const yousra = {
 
 ---
 
-### ✨ *"Code is poetry. Technology is art. Innovation is the masterpiece."* ✨
+### ✨ *"Code is poetry. Technology is art. Innovation is the masterpiece. waSStyle is my love."* ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%" />
 
